@@ -1,0 +1,7 @@
+<suite name="Testcase1">
+ <test name="testngTest">
+ <classes>
+ <class name="Com.Testcases.OpenbrowserTestcase" />
+ </classes>
+ </test>
+</suite>
